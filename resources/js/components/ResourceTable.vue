@@ -157,6 +157,10 @@ export default {
 					return {
 						id: item.id.value,
 						sort_order: 1 + key,
+            viaResource: this.viaResource,
+            viaResourceId: this.viaResourceId,
+            viaManyToMany: this.viaManyToMany,
+            viaRelationship: this.viaRelationship,
 					}
 				})
 			))
