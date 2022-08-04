@@ -1,6 +1,6 @@
 <?php
 
-namespace Ofcold\NovaSortable;
+namespace BlueBayTravel\NovaSortable;
 
 
 use Illuminate\Database\Eloquent\Builder;

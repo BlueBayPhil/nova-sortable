@@ -16,5 +16,5 @@ use Illuminate\Support\Facades\Route;
 
 Route::post(
 	'/{resource}/sortable',
-	'\Ofcold\NovaSortable\Http\Controllers\SortableController@store'
+	'\BlueBayTravel\NovaSortable\Http\Controllers\SortableController@store'
 );

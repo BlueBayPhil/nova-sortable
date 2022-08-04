@@ -1,6 +1,6 @@
 <?php
 
-namespace Ofcold\NovaSortable\Http\Controllers;
+namespace BlueBayTravel\NovaSortable\Http\Controllers;
 
 use Illuminate\Routing\Controller;
 use Laravel\Nova\Http\Requests\NovaRequest;

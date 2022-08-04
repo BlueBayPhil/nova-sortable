@@ -1,9 +1,9 @@
 <?php
 
-namespace Ofcold\NovaSortable\Http\Middleware;
+namespace BlueBayTravel\NovaSortable\Http\Middleware;
 
 use Laravel\Nova\Nova;
-use Ofcold\NovaSortable\NovaSortable;
+use BlueBayTravel\NovaSortable\NovaSortable;
 
 class Authorize
 {
