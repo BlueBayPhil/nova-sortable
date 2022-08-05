@@ -5,8 +5,20 @@
 
 ## Installing
 
+Add this git repo as a source in your composer.json file:
+```json
+...
+"sources": {
+    "nova-sortable": {
+        "type": "git",
+	"url": "https://github.com/BlueBayPhil/nova-sortable.git"
+    }
+}
+...
+```
+
 ```bash
-composer require ofcold/nova-sortable
+composer require bluebaytravel/nova-sortable
 ```
 
 
